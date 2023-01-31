@@ -1,5 +1,5 @@
 name: Task
-description: Plan a task
+description: Plan a new task
 body:
   - type: checkboxes
     attributes:
