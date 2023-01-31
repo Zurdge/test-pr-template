@@ -1,4 +1,9 @@
-Click the `Preview` tab and select a PR template:
+> Click the `Preview` tab and select a PR template:
 
-- [Standard change](?expand=1&template=standard-change.md)
-- [Small change](?expand=1&template=small-change.md)
+## Please select appropriate PR template 💻
+
+- [New Feature ⭐](?expand=1&template=react-page-implementation.md)
+
+- [Developer Friendly 🤓](?expand=1&template=developer-friendly.md)
+
+- [React Page Integration 🖌️](?expand=1&template=react-page-implementation.md)
